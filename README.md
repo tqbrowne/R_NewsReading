@@ -10,7 +10,7 @@ Note: this course is the part of the series of step-by-step tutorials allowing t
 
 ## Disable algorithmic trading robots during macro-economic events
 
-R script will scrap news from the table in Forex Factory. It will match collected news versus pre-defined user list.
+R script will scrape news from the table in Forex Factory. It will match collected news versus pre-defined user list.
 In case there is a match csv file will be written into MQL4 Sandbox and trading will be disabled
 Job is automated to take place every 24h at 00:10
 
